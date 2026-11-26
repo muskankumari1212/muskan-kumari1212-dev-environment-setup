@@ -1,0 +1,10 @@
+# Activity-1: Dev Environment Setup
+
+1. Installed Visual Studio Code for C/C++ programming.
+2. Installed the Microsoft C/C++ extension.
+3. Installed and configured the MinGW-w64 compiler.
+4. Initially faced an issue where the GCC compiler was not recognized.
+5. Resolved the issue by adding the MinGW-w64 `bin` folder to the PATH environment variable.
+6. Verified the compiler installation using the `gcc --version` command.
+7. Successfully compiled and executed the `hello.c` program.
+8. Confirmed the expected output: `Hello, World!`.
