@@ -8,3 +8,5 @@
 6. Verified the compiler installation using the `gcc --version` command.
 7. Successfully compiled and executed the `hello.c` program.
 8. Confirmed the expected output: `Hello, World!`.
+9. Documented the development environment setup process.
+10. Recorded the installation, configuration, and testing steps for future reference.
